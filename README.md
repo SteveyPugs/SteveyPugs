@@ -1,1 +1,1 @@
-![me](SteveyPugs/SteveyPugs/Ruvio_306.jpg)
+![me](https://github.com/SteveyPugs/SteveyPugs/blob/master/Ruvio_306.jpg)
